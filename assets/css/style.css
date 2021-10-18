@@ -189,7 +189,7 @@ section>article:nth-of-type(6)>p{
 
 main>div>img{
     background: url(../img/see.png) center/cover no-repeat;
-    height: 105.5vh;
+    width: 100vw;
     display: block;
 }
 
